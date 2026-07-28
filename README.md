@@ -1,3 +1,17 @@
+# shadcn-svelte-css
+
+Because I don't want to build and/or maintain a component library, I want to use one that already exists.  
+Because shadcn looks good.  
+Because shadcn-svelte exists.  
+Because I don't like Tailwind.  
+Because I think I'm literally the only person on the planet who wants a shadcn-svelte without Tailwind.
+
+So let's see how the world of open source AI models does at this.
+
+Original README follows.
+
+---
+
 <p align="center">
  <img align="center" src="https://raw.githubusercontent.com/huntabyte/shadcn-svelte/main/docs/static/android-chrome-192x192.png" height="96" />
  <h1 align="center">
